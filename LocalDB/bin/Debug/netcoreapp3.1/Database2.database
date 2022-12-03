@@ -1,0 +1,1 @@
+{"Name":"New Database","Tables":[{"Name":"New Table 1","Rows":[],"Columns":[{"Name":"ID","Type":"INT"},{"Name":"NAME","Type":"STRING"}]},{"Name":"New Table 2","Rows":[],"Columns":[{"Name":"ID","Type":"INT"},{"Name":"NAME","Type":"STRING"}]},{"Name":"New Table 3","Rows":[],"Columns":[{"Name":"ID","Type":"INT"},{"Name":"NAME","Type":"STRING"}]}]}
